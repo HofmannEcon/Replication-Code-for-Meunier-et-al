@@ -7,7 +7,7 @@
 
 # Settings ---------------------------------------------------------------------
     # General settings ----------------------------------------------------------
-        project_dir <- "/Users/chrispohweitiong/Documents/Claude Codex Projects/9 Isolating NO2"
+        project_dir <- "xxx"
         input_path <- file.path(project_dir, "raw_data", "WUP2025-F21-DEGURBA-Cities_Pop.xlsx")
         population_only_output_path <- file.path(
             project_dir,
