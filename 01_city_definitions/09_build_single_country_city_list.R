@@ -1,5 +1,4 @@
 # Build single-country city list from UN WUP 2025 city population data
-# By Chris POH
 
 # Load packages ----------------------------------------------------------------
     library(dplyr)
