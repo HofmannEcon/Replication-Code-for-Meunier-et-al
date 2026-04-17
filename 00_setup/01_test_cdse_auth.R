@@ -18,7 +18,7 @@
 
 # Settings ---------------------------------------------------------------------
     # General settings ----------------------------------------------------------
-        project_dir <- "/Users/chrispohweitiong/Documents/Claude Codex Projects/9 Isolating NO2"
+        project_dir <- "xxx"
         env_path <- file.path(project_dir, ".env")
         helper_path <- file.path(project_dir, "00_setup", "02_cdse_auth_helpers.R")
         token_url <- paste0(
