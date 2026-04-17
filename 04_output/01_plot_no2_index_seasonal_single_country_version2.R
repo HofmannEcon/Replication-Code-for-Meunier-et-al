@@ -7,7 +7,7 @@
 
 # Settings ---------------------------------------------------------------------
     # General settings ----------------------------------------------------------
-        project_dir <- "/Users/chrispohweitiong/Documents/Claude Codex Projects/9 Isolating NO2"
+        project_dir <- "xxx"
         data_dir <- file.path(project_dir, "04_output", "data", "version2")
         charts_dir <- file.path(project_dir, "04_output", "charts", "version2")
 
