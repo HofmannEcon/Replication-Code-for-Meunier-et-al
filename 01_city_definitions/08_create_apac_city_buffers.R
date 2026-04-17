@@ -8,7 +8,7 @@
 
 # Settings ---------------------------------------------------------------------
     # General settings ----------------------------------------------------------
-        project_dir <- "/Users/chrispohweitiong/Documents/Claude Codex Projects/9 Isolating NO2"
+        project_dir <- "xxx"
         input_path <- file.path(project_dir, "01_city_definitions", "apac_cities.csv")
         output_path <- file.path(
             project_dir,
