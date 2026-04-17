@@ -1,5 +1,4 @@
 # Create 40 km city buffers from single-country city definitions
-# By Chris POH
 
 # Load packages ----------------------------------------------------------------
     library(dplyr)
