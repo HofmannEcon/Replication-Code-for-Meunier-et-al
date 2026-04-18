@@ -1,5 +1,4 @@
 # Aggregate country-level version2 daily NO2 files to monthly averages
-# By Chris POH
 
 # Load packages ----------------------------------------------------------------
     library(dplyr)
